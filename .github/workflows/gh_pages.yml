@@ -19,7 +19,7 @@ jobs:
         run: flutter pub get
         working-directory: ./example
       - name: Build Web
-        run: flutter build web --release --source-maps
+        run: flutter build web --release --source-maps --base-href=/cupertino_rrect/
         working-directory: ./example
       - name: Deploy
         run: |
