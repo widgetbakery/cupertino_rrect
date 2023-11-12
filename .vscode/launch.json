@@ -23,6 +23,19 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
-        }
+        },
+        {
+            "name": "macrobenchmarks",
+            "cwd": "dev/macrobenchmarks",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "macrobenchmarks (profile mode)",
+            "cwd": "dev/macrobenchmarks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
     ]
 }
