@@ -16,6 +16,9 @@ jobs:
       - name: Install Dependencies
         run: flutter pub get
         working-directory: ./example
+      - name: Install Dependencies (macrobenchmark)
+        run: flutter pub get
+        working-directory: ./dev/macrobenchmarks
       - name: Check format
         run: dart format . --output=none --set-exit-if-changed
       - name: Check format (example)
@@ -23,8 +26,5 @@ jobs:
         working-directory: ./example
       - name: Analyze
         run: flutter analyze
-      - name: Analyze (example)
-        run: flutter analyze
-        working-directory: ./example
       - name: Test
         run: flutter test
