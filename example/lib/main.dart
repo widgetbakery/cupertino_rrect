@@ -47,7 +47,7 @@ class _MainAppState extends State<MainApp> {
                           });
                         },
                       ),
-                      const Text('Show standard'),
+                      const Text('Show regular RRect'),
                     ],
                   ),
                 ],
