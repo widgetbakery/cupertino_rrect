@@ -4,7 +4,6 @@
 
 import 'package:flutter_driver/driver_extension.dart';
 import 'package:cupertino_rrect_macrobenchmarks/main.dart' as app;
-import 'package:integration_test/integration_test.dart';
 
 void main() {
   enableFlutterDriverExtension();

@@ -1,5 +1,4 @@
 import 'package:cupertino_rrect/cupertino_rrect.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
