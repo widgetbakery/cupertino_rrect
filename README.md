@@ -1,8 +1,10 @@
 Rounded rectangle with smoother transition between straight and curved parts used in macOS and iOS.
 
-Here is a cupertino rounded rectangle (squircle) in blue color overlayed on top of a regular rounded rectangle with the same corner radius (100) in red:
+Below is a cupertino rounded rectangle (squircle) in blue color overlayed on top of a regular rounded rectangle with the same corner radius (100) in red:
 
 <img src="https://github.com/widgetforge/cupertino_rrect/assets/96958/65246aa4-3633-4eff-9e02-411a1d617e19" width="200">
+
+Path algorithm is based on [this article](https://www.paintcodeapp.com/news/code-for-ios-7-rounded-rectangles).
 
 ## Usage
 
