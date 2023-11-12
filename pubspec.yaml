@@ -1,6 +1,6 @@
 name: cupertino_rrect
 description: "Rounded rectangle with smoother transition between straight and curved parts used in macOS and iOS."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/widgetforge/cupertino_rrect
 
 environment:
