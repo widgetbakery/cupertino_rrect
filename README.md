@@ -33,4 +33,4 @@ Path algorithm is based on [this article](https://www.paintcodeapp.com/news/code
 
 ## Additional information
 
-Example app is located in `example` directory. Example is also [available online](https://widgetforge.github.io/cupertino_rrect/).
+Example app is located in `example` directory. Also available [online](https://widgetbakery.github.io/cupertino_rrect/).
